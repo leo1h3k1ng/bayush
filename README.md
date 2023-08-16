@@ -1,2 +1,0 @@
-# bayu.sh
-Hello World
